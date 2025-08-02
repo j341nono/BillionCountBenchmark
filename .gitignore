@@ -14,8 +14,8 @@ Thumbs.db
 # For C/C++/Go etc.
 # Ignore all files without an extension (like compiled binaries: 'main', 'a.out')
 # IMPORTANT: Use /*/ to target files inside language subdirectories
-*/*
-!*/*.*
+# */*
+# !*/*.*
 
 # For specific executable names if the above is too broad
 # c/main
@@ -43,3 +43,5 @@ Thumbs.db
 
 # Node.js
 /node_modules/
+
+a.out
