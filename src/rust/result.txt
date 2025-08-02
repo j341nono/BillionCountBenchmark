@@ -1,0 +1,6 @@
+$ ./src/rust/test.sh
+1000000000
+
+real	0m1.125s
+user	0m0.895s
+sys	0m0.011s
