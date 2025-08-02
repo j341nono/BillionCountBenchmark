@@ -1,3 +1,5 @@
+![project_banner](./assets/app.png)
+
 # Billion Count Benchmark
 
 A simple project to measure and compare the time it takes for various programming languages to count to one billion (1,000,000,000).
