@@ -6,8 +6,8 @@ A simple project to measure and compare the time it takes for various programmin
 
 Execution times were measured on a specific machine. **Your results will vary** based on your hardware (CPU, RAM) and software (OS, compiler/runtime version) environment.
 
-| Language          | Time (seconds) | Compiler / Runtime Version | Notes                       |
+| Language          | Time (seconds) | Compiler / Runtime Version |                  |
 | :---------------- | :------------: | :------------------------- | :-------------------------- |
-| Python 3          |     *47.741s* | `Python 3.13.5 | |
-
+| Python 3 | *47.741s* | Python 3.13.5 | |
+| C++ | *0.889s* | clang++ 14.0.3 | |
 *These are example results. Please run the benchmarks on your own system to get accurate data.*
