@@ -11,7 +11,7 @@ Execution times were measured on a specific machine. **Your results will vary** 
 | Python 3 | *47.741s* | Python 3.13.5 | 
 | C++ | *0.889s* | clang++ 14.0.3 | 
 | C | *0.739s* | clang++ 14.0.3 | 
-| Ruby | *8.358s* | ruby 3.3.0 |
+| Ruby | *8.261s* | ruby 3.3.0 |
 | Rust | *1.125s* | rustc 1.88.0 | 
 
 These are example results. Please run the benchmarks on your own system to get accurate data.*
