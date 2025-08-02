@@ -1,0 +1,45 @@
+# # # General # # #
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE and editor configuration files
+.vscode/
+.idea/
+
+
+# # # Compiled Files & Binaries # # #
+
+# For C/C++/Go etc.
+# Ignore all files without an extension (like compiled binaries: 'main', 'a.out')
+# IMPORTANT: Use /*/ to target files inside language subdirectories
+*/*
+!*/*.*
+
+# For specific executable names if the above is too broad
+# c/main
+# cpp/main
+# go/main
+
+# Object files
+*.o
+*.obj
+
+# Java class files
+*.class
+
+
+# # # Language Specific Build Artifacts # # #
+
+# Rust
+/target/
+
+# Java (Maven/Gradle)
+/target/
+/build/
+*.jar
+*.war
+
+# Node.js
+/node_modules/
