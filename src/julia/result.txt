@@ -1,0 +1,6 @@
+$ ./src/julia/test.sh
+1000000000
+
+real    0m0.290s
+user    0m2.191s
+sys     0m0.067s
