@@ -1,0 +1,11 @@
+$ ./src/typst/test.sh
+error: panicked with: 1000000000
+  ┌─ src/typst/main.typ:5:1
+  │
+5 │ #panic(n)
+  │  ^^^^^^^^
+
+
+real    2m46.676s
+user    2m34.243s
+sys     0m12.425s

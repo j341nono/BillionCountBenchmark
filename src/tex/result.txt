@@ -1,0 +1,10 @@
+$ ./src/tex/test.sh
+This is LuaTeX, Version 1.22.0 (TeX Live 2025) 
+ restricted system commands enabled.
+(./src/tex/main.tex1000000000)
+warning  (pdf backend): no pages of output.
+Transcript written on main.log.
+
+real    0m6.355s
+user    0m6.261s
+sys     0m0.041s
