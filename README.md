@@ -16,4 +16,4 @@ Execution times were measured on a specific machine. **Your results will vary** 
 | Ruby | *8.261s* | ruby 3.3.0 |
 | Rust | *1.125s* | rustc 1.88.0 | 
 
-These are example results. Please run the benchmarks on your own system to get accurate data.*
+These are example results. Please run the benchmarks on your own system to get accurate data.
